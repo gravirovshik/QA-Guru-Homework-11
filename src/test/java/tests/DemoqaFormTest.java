@@ -13,10 +13,10 @@ public class DemoqaFormTest extends TestBase {
 
     private final DemoqaFormPage demoqaFormPage = new DemoqaFormPage();
 
-    String firstName = "Daria",
-            lastName = "Sarycheva",
-            userEmail = "daria@test.com",
-            gender = "Female",
+    String firstName = "Roman",
+            lastName = "Belov",
+            userEmail = "Roma@test.com",
+            gender = "Male",
             userNumber = "8900900999",
             dayOfBirth = "23",
             monthOfBirth = "February",
