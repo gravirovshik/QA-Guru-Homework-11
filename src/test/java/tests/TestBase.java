@@ -19,6 +19,7 @@ public class TestBase {
         Configuration.baseUrl = "https://demoqa.com";
         Configuration.pageLoadStrategy = "eager";
         Configuration.browserSize = System.getProperty("browserSize");
+        Configuration.browserVersion = System.getProperty("browserVersion");
         Configuration.browser = System.getProperty("browser");
         Configuration.remote = System.getProperty("remoteURL");
 
